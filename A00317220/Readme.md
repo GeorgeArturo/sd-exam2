@@ -120,3 +120,4 @@ services:
 ```
 
 A continuación una prueba de funcionamiento
+![GitHub Logo0](Imagenes/parcial2.gif)

@@ -26,7 +26,7 @@ ADD index.html /usr/local/apache2/htdocs/index.html
 el index que se añade esta en los recursos.
 Como se dijo anteriormente este fue el procedimiento para todas las webs, lo unico que cambia es el index de cada una.
 
-A continuación mostrare como fue la configuración del nginx 
+* A continuación mostrare como fue la configuración del nginx 
 * nginx.conf
 
 ```

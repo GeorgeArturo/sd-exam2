@@ -121,3 +121,8 @@ services:
 
 A continuación una prueba de funcionamiento
 ![GitHub Logo0](Imagenes/parcial2.gif)
+
+
+### problemas encontrado
+
+* El mayor problema que tuve fue cuando necesita probar las diferentes versiones de la aplicación, pues cuando volvia a hacer docker compose cargaba la misma configuración. La solución a esto era además de borrar el contenedor tenia que borrar la imagen, así ya cargaba la configuración correcta.

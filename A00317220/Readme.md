@@ -4,7 +4,7 @@
 ### Estudiantes: 
 **Jorge Hernandez - A00317220**
 
-**Repositorio de Github : github.com/GeorgeArturo/sd-exam2 **
+**Repositorio de Github : github.com/GeorgeArturo/sd-exam2**
 
 ### Objetivo 
 1.Implementar un balanceador de carga con contenedores

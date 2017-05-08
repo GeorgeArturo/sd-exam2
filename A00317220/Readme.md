@@ -1,9 +1,10 @@
 
-### TALLER MIRROR
+### Parcial 2
 
 ### Estudiantes: 
 **Jorge Hernandez - A00317220**
 
+**Repositorio de Github : github.com/GeorgeArturo/sd-exam2 **
 
 ### Objetivo 
 1.Implementar un balanceador de carga con contenedores
@@ -79,7 +80,7 @@ RUN echo "daemon off;" >> /etc/nginx/nginx.conf
 CMD service nginx start
 ```
 Finalmente teniendo configurando las webs y el balanceador de carga, se configura el docker compose que sera quien levante toda la infraestructura.
-
+* Docker compose
 ``` python
 version: '2'
  
